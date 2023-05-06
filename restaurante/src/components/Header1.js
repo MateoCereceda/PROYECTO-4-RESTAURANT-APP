@@ -1,25 +1,22 @@
-import { Link } from 'react-router-dom';
+
 import React from 'react';
 import './styles/Header1.css';
+import logo from "./assets/logo-pizza.png"; // Cambia la ruta al archivo de la imagen del logo
 
-const Header = () => {
-    return (
-    <header>
-        <nav>
-        <ul>
-            <li>
-            <Link to="/">Inicio</Link>
-            </li>
-            <li>
-            <Link to="/contact">Contacto</Link>
-            </li>
-            <li>
-            <Link to="/location">Ubicación</Link>
-            </li>
-        </ul>
+const Layout = ({ children }) => {
+return (
+    <div className="layout-container">
+    <header className="header">
+        <img className="logo" src={logo} alt="Logo" />
+        <nav className="navbar">
+        <a href="/">Inicio</a>
+        <a href="/contact">Contacto</a>
+        <a href="/location">Ubicación</a>
         </nav>
     </header>
-    );
+    <main>{children}</main>
+    </div>
+);
 };
 
-export default Header;
+export default Layout;

@@ -1,0 +1,42 @@
+:root {
+    --primary-color: #73020C;
+    --secondary-color: #F2DA91;
+    --tertiary-color: #F2A007;
+    --quaternary-color: #F27507;
+    --quinary-color: #D95407;
+
+    --font-family: 'Roboto', sans-serif;
+}
+
+body {
+    font-family: var(--font-family);
+    background-color: var(--secondary-color);
+    color: var(--primary-color);
+    margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: var(--primary-color);
+}
+
+a {
+    color: var(--tertiary-color);
+    text-decoration: none;
+}
+
+a:hover {
+    color: var(--quaternary-color);
+}
+
+button {
+    background-color: var(--tertiary-color);
+    color: var(--secondary-color);
+    border: none;
+    padding: 8px 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: var(--quaternary-color);
+}

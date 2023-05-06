@@ -1,10 +1,31 @@
-.home {
-    text-align: center;
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
 }
 
-.home img {
-    max-width: 100%;
-    height: auto;
-    display: block;
-    margin: 0 auto;
+.logo {
+    max-width: 150px;
+}
+
+.navbar {
+    display: flex;
+    gap: 20px;
+}
+
+.body {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+.image-pizza {
+    max-width: 300px;
+}
+
+.footer {
+    text-align: center;
+    padding: 20px;
 }

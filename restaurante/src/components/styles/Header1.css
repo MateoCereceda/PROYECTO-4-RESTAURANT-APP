@@ -2,25 +2,30 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #333;
-    padding: 1rem;
+    padding: 20px;
+    background-color: #73020C; /* Cambia el color de fondo del navbar */
 }
 
-.header h1 {
-    color: #fff;
-    margin: 0;
+.logo {
+    max-width: 150px;
 }
 
-.header nav {
+.navbar {
     display: flex;
+    gap: 20px;
 }
 
-.header nav a {
-    color: #fff;
+  /* Añade estilos a los enlaces */
+.navbar a {
+    color: white;
     text-decoration: none;
-    margin-left: 1rem;
+    padding: 8px 16px;
+    border: 2px solid white;
+    border-radius: 5px;
+    transition: all 0.3s;
 }
 
-.header nav a:hover {
-    color: #ccc;
+.navbar a:hover {
+    background-color: white;
+    color: #73020C;
 }
