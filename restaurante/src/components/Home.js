@@ -32,7 +32,7 @@ return (
             <h2 className="home-textbox-subtitle">¡Pizza al paso o delivery!</h2>
             <p className="home-textbox-description">
             Bienvenido a nuestro restaurante de pizza al paso, en donde podrás
-            encontrar las mejores pizzas al más accesible precio, con delivery en tiempo record </p>
+            encontrar las mejores pizzas al más accesible precio, con delivery en tiempo record.</p>
 
             <p className="home-textbox-description"> 
             Nuestros productos estan hechos con ingredientes de alta calidad y un sabor
