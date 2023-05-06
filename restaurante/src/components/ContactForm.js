@@ -13,7 +13,7 @@ const handleSubmit = (e) => {
 
 return (
     <div className="contact-form">
-    <h2>Contacto</h2>
+    <h2>Formulario de contacto</h2>
     <form onSubmit={handleSubmit}>
         <label htmlFor="name">Nombre:</label>
         <input

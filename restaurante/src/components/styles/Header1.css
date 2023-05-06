@@ -3,7 +3,7 @@
     justify-content: space-between;
     align-items: center;
     padding: 20px;
-    background-color: #73020C; /* Cambia el color de fondo del navbar */
+    background-color: #73020C;
 }
 
 .logo {
@@ -15,7 +15,6 @@
     gap: 20px;
 }
 
-  /* Añade estilos a los enlaces */
 .navbar a {
     color: white;
     text-decoration: none;

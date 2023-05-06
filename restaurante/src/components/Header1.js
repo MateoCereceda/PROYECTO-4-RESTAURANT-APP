@@ -1,7 +1,7 @@
 
 import React from 'react';
 import './styles/Header1.css';
-import logo from "./assets/logo-pizza.png"; // Cambia la ruta al archivo de la imagen del logo
+import logo from "./assets/logo-pizza.png"; 
 
 const Layout = ({ children }) => {
 return (

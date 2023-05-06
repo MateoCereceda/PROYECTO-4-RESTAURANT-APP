@@ -9,7 +9,7 @@ return (
     <p>
         Dirección: 123 Calle Ficticia, Santiago de Chile, RM, Código Postal 00000
     </p>
-    <p>Correo electrónico: info@restaurante.com</p>
+    <p>Correo electrónico: info@fastapizza.com</p>
     <p>Teléfono: +56912345678</p>
     <div className="map-container">
         <img
