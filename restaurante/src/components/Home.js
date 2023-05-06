@@ -1,5 +1,6 @@
 import React from 'react';
 import logo from './assets/pizza.png'; 
+import './styles/Home.css';
 
 const Home = () => {
 return (

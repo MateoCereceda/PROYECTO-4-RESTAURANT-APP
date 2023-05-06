@@ -1,5 +1,6 @@
 import React from 'react';
 import mapImage from './assets/mapa.png';
+import './styles/LocationInfo.css';
 
 const LocationInfo = () => {
 return (
