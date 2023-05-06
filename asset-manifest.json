@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/MateoCereceda/PROYECTO-4-RESTAURANT-APP/static/css/main.e6f6c641.css",
-    "main.js": "/MateoCereceda/PROYECTO-4-RESTAURANT-APP/static/js/main.72cc5635.js",
-    "static/js/787.4df367c7.chunk.js": "/MateoCereceda/PROYECTO-4-RESTAURANT-APP/static/js/787.4df367c7.chunk.js",
-    "static/media/mapa.png": "/MateoCereceda/PROYECTO-4-RESTAURANT-APP/static/media/mapa.17b15896cbdfc04dadd5.png",
-    "static/media/logo-pizza.png": "/MateoCereceda/PROYECTO-4-RESTAURANT-APP/static/media/logo-pizza.bb296aded954f4cb871b.png",
-    "static/media/pizza1.jpg": "/MateoCereceda/PROYECTO-4-RESTAURANT-APP/static/media/pizza1.0edc2f78caca146e9e4d.jpg",
-    "static/media/pizza3.jpg": "/MateoCereceda/PROYECTO-4-RESTAURANT-APP/static/media/pizza3.12eaeb6f30707bac5ef7.jpg",
-    "static/media/pizza2.jpg": "/MateoCereceda/PROYECTO-4-RESTAURANT-APP/static/media/pizza2.cc3fa4dd4648f2b08a17.jpg",
-    "index.html": "/MateoCereceda/PROYECTO-4-RESTAURANT-APP/index.html",
-    "main.e6f6c641.css.map": "/MateoCereceda/PROYECTO-4-RESTAURANT-APP/static/css/main.e6f6c641.css.map",
-    "main.72cc5635.js.map": "/MateoCereceda/PROYECTO-4-RESTAURANT-APP/static/js/main.72cc5635.js.map",
-    "787.4df367c7.chunk.js.map": "/MateoCereceda/PROYECTO-4-RESTAURANT-APP/static/js/787.4df367c7.chunk.js.map"
+    "main.css": "/MateoCereceda/PROYECTO-4-RESTAURANT-APP/restaurante/static/css/main.e6f6c641.css",
+    "main.js": "/MateoCereceda/PROYECTO-4-RESTAURANT-APP/restaurante/static/js/main.3e6fe371.js",
+    "static/js/787.4df367c7.chunk.js": "/MateoCereceda/PROYECTO-4-RESTAURANT-APP/restaurante/static/js/787.4df367c7.chunk.js",
+    "static/media/mapa.png": "/MateoCereceda/PROYECTO-4-RESTAURANT-APP/restaurante/static/media/mapa.17b15896cbdfc04dadd5.png",
+    "static/media/logo-pizza.png": "/MateoCereceda/PROYECTO-4-RESTAURANT-APP/restaurante/static/media/logo-pizza.bb296aded954f4cb871b.png",
+    "static/media/pizza1.jpg": "/MateoCereceda/PROYECTO-4-RESTAURANT-APP/restaurante/static/media/pizza1.0edc2f78caca146e9e4d.jpg",
+    "static/media/pizza3.jpg": "/MateoCereceda/PROYECTO-4-RESTAURANT-APP/restaurante/static/media/pizza3.12eaeb6f30707bac5ef7.jpg",
+    "static/media/pizza2.jpg": "/MateoCereceda/PROYECTO-4-RESTAURANT-APP/restaurante/static/media/pizza2.cc3fa4dd4648f2b08a17.jpg",
+    "index.html": "/MateoCereceda/PROYECTO-4-RESTAURANT-APP/restaurante/index.html",
+    "main.e6f6c641.css.map": "/MateoCereceda/PROYECTO-4-RESTAURANT-APP/restaurante/static/css/main.e6f6c641.css.map",
+    "main.3e6fe371.js.map": "/MateoCereceda/PROYECTO-4-RESTAURANT-APP/restaurante/static/js/main.3e6fe371.js.map",
+    "787.4df367c7.chunk.js.map": "/MateoCereceda/PROYECTO-4-RESTAURANT-APP/restaurante/static/js/787.4df367c7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6f6c641.css",
-    "static/js/main.72cc5635.js"
+    "static/js/main.3e6fe371.js"
   ]
 }
