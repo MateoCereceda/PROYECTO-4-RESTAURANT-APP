@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/PROYECTO-4-RESTAURANT-APP/static/css/main.e6f6c641.css",
-    "main.js": "/PROYECTO-4-RESTAURANT-APP/static/js/main.b1ba85b9.js",
+    "main.js": "/PROYECTO-4-RESTAURANT-APP/static/js/main.c8aefa70.js",
     "static/js/787.4df367c7.chunk.js": "/PROYECTO-4-RESTAURANT-APP/static/js/787.4df367c7.chunk.js",
     "static/media/mapa.png": "/PROYECTO-4-RESTAURANT-APP/static/media/mapa.17b15896cbdfc04dadd5.png",
     "static/media/logo-pizza.png": "/PROYECTO-4-RESTAURANT-APP/static/media/logo-pizza.bb296aded954f4cb871b.png",
@@ -10,11 +10,11 @@
     "static/media/pizza2.jpg": "/PROYECTO-4-RESTAURANT-APP/static/media/pizza2.cc3fa4dd4648f2b08a17.jpg",
     "index.html": "/PROYECTO-4-RESTAURANT-APP/index.html",
     "main.e6f6c641.css.map": "/PROYECTO-4-RESTAURANT-APP/static/css/main.e6f6c641.css.map",
-    "main.b1ba85b9.js.map": "/PROYECTO-4-RESTAURANT-APP/static/js/main.b1ba85b9.js.map",
+    "main.c8aefa70.js.map": "/PROYECTO-4-RESTAURANT-APP/static/js/main.c8aefa70.js.map",
     "787.4df367c7.chunk.js.map": "/PROYECTO-4-RESTAURANT-APP/static/js/787.4df367c7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6f6c641.css",
-    "static/js/main.b1ba85b9.js"
+    "static/js/main.c8aefa70.js"
   ]
 }
