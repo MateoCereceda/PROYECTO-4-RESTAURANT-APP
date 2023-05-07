@@ -2,7 +2,7 @@
   "name": "restaurante",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/MateoCereceda/PROYECTO-4-RESTAURANT-APP/",
+  "homepage": "https://MateoCereceda.github.io/PROYECTO-4-RESTAURANT-APP/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
